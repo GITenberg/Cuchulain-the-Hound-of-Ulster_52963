@@ -1,0 +1,34 @@
+_repo: Cuchulain-the-Hound-of-Ulster_52963
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Reid, Stephen
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '5698'
+    url: http://www.gutenberg.org/2009/agents/5698
+creator:
+  author:
+    agent_name: Hull, Eleanor
+    birthdate: 1860
+    deathdate: 1935
+    gutenberg_agent_id: '44031'
+    url: http://www.gutenberg.org/2009/agents/44031
+description: ''
+gutenberg_issued: '2016-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52963'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cuchulain (Legendary character)'
+- !lcsh 'Tales -- Ulster (Northern Ireland and Ireland)'
+- !lcc 'PB'
+- !lcsh 'Heroes -- Ulster (Northern Ireland and Ireland) -- Legends'
+- !lcsh 'Clive, Mrs. (Catherine) 1711-1785'
+- GITenberg
+title: Cuchulain, the Hound of Ulster
+url: http://www.gutenberg.org/ebooks/52963
